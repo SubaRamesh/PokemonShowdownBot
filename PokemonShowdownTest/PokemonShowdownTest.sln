@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "PokemonShowdownTest", "PokemonShowdownTest\PokemonShowdownTest.njsproj", "{69899022-5E5D-4AA2-B689-A3B14DEB8729}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69899022-5E5D-4AA2-B689-A3B14DEB8729}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69899022-5E5D-4AA2-B689-A3B14DEB8729}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69899022-5E5D-4AA2-B689-A3B14DEB8729}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69899022-5E5D-4AA2-B689-A3B14DEB8729}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01366534-9138-45AC-98D6-CB7A107DD9C3}
+	EndGlobalSection
+EndGlobal

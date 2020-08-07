@@ -1,0 +1,35 @@
+{
+    "active":[
+        {"moves":
+            [
+                {"move":"Double Iron Bash","id":"doubleironbash","pp":8,"maxpp":8,"target":"normal","disabled":false},
+                {"move":"Substitute","id":"substitute","pp":16,"maxpp":16,"target":"self","disabled":false},
+                {"move":"Thunder Punch","id":"thunderpunch","pp":24,"maxpp":24,"target":"normal","disabled":false},
+                {"move":"Earthquake","id":"earthquake","pp":16,"maxpp":16,"target":"allAdjacent","disabled":false}
+            ],
+        "canDynamax":true,
+        "maxMoves":
+            {"maxMoves":
+                [
+                    {"move":"maxsteelspike","target":"adjacentFoe"},
+                    {"move":"maxguard","target":"self"},{"move":"maxlightning","target":"adjacentFoe"},
+                    {"move":"maxquake","target":"adjacentFoe"}
+                ],
+            "gigantamax":"G-Max Meltdown"
+            }
+        }
+        ],
+    "side":
+        {
+        "name":"hotPotatoLmao",
+        "id":"p1",
+        "pokemon":
+            [{"ident":"p1: Melmetal","details":"Melmetal, L72","condition":"313/313","active":true,"stats":{"atk":248,"def":248,"spa":157,"spd":136,"spe":91},"moves":["doubleironbash","substitute","thunderpunch","earthquake"],"baseAbility":"ironfist","item":"leftovers","pokeball":"pokeball","ability":"ironfist"},
+            {"ident":"p1: Blastoise","details":"Blastoise, L82, M","condition":"264/264","active":false,"stats":{"atk":183,"def":211,"spa":187,"spd":219,"spe":175},"moves":["icebeam","hydropump","shellsmash","earthquake"],"baseAbility":"torrent","item":"whiteherb","pokeball":"pokeball","ability":"torrent"},
+            {"ident":"p1: Dragapult","details":"Dragapult, L80, M","condition":"272/272","active":false,"stats":{"atk":238,"def":166,"spa":206,"spd":166,"spe":273},"moves":["fireblast","shadowball","uturn","dracometeor"],"baseAbility":"infiltrator","item":"choicespecs","pokeball":"pokeball","ability":"infiltrator"},
+            {"ident":"p1: Porygon2","details":"Porygon2, L84","condition":"280/280","active":false,"stats":{"atk":139,"def":199,"spa":225,"spd":208,"spe":149},"moves":["recover","triattack","toxic","icebeam"],"baseAbility":"download","item":"eviolite","pokeball":"pokeball","ability":"download"},
+            {"ident":"p1: Golurk","details":"Golurk, L86","condition":"293/293","active":false,"stats":{"atk":263,"def":187,"spa":144,"spd":187,"spe":144},"moves":["earthquake","rockpolish","stoneedge","poltergeist"],"baseAbility":"noguard","item":"lifeorb","pokeball":"pokeball","ability":"noguard"},
+            {"ident":"p1: Ninjask","details":"Ninjask, L88, F","condition":"251/251","active":false,"stats":{"atk":209,"def":129,"spa":138,"spd":138,"spe":332},"moves":["acrobatics","swordsdance","uturn","leechlife"],"baseAbility":"speedboost","item":"","pokeball":"pokeball","ability":"speedboost"}]
+        },
+        "rqid":2
+}
