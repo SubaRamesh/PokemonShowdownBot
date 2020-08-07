@@ -4,8 +4,8 @@ var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var grab = require("./Grabber.js");
 var det = require("./Determine.js");
 
-const USERNAME = "hotPotatoLmao";//hotPotatoLmao///drippingFinesse
-const PASSWORD = "hotPotatoLmao";//          //banana
+const USERNAME = ;//set Username
+const PASSWORD = ;//set Password, I know it's not secure rn
 
 const ws = new WebSocket("ws://sim.smogon.com:8000/showdown/websocket");
 const url = 'http://play.pokemonshowdown.com/~~showdown/action.php';
